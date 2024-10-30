@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  background-color: black;
+  color: #333333;
+}
+
+.lightMode {
+  background-color: white;
+  color: black;
+}
+
+#lightsOff {
+  display: none;
+}
